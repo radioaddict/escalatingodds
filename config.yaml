@@ -1,0 +1,54 @@
+site:
+  title: "Escalating Odds"
+  author: "radioaddict"
+  tagline: "One More Attempt"
+  url: "https://writing.radioaddictmusic.com"
+  description: "Aesthetic preference becomes identity. Identity forms purpose.
+ui:
+  theme:
+    preset: "blueprint"
+    defaultMode: "dark"
+    overrides:
+      colors:
+        dark:
+          primary: "#FFFFFF"
+          secondary: "#b3b3b3"
+          text: "#b3b3b3"
+          background: "#1C1c1c"
+  labels:
+    previous: "Previous"
+    next: "Next"
+    noContent: "No records found in this archive."
+    errorLoading: "Error loading content."
+    page: "Page"
+    of: "of"
+    volumes: "Archives"
+    dawn: "Light"
+    dusk: "Void"
+    lightMode: "Switch to light mode"
+    darkMode: "Switch to void mode"
+    randomPiece: "Random Record"
+    new: "New"
+    rss: "RSS Feed"
+    close: "Close"
+  lowercase: false
+  wordsWasted: "{words} words voiced to the void across {pieces} archives."
+pages:
+  order:
+    - about
+  notFound: obscured
+exclude:
+  pages:
+    -
+  pieces:
+    -
+reader:
+  order:
+    default: descending
+rss:
+  piecesLimit: 10
+bodyOfWork:
+  order: descending
+
+
+
