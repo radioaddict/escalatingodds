@@ -3,7 +3,6 @@ title: "NIKO 001"
 slug: "niko-001"
 date: 2025-12-02
 collections:
-  - "the tidal archive"
   - fiction
 ---
 
