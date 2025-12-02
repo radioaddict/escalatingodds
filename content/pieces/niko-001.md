@@ -2,8 +2,8 @@
 title: "NIKO 001"
 slug: "niko-001"
 date: 2025-12-01
-categories:
-  - novel
+collections:
+  - the tidal archive
   - fiction
 ---
 
