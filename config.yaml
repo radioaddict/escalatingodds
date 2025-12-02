@@ -2,7 +2,7 @@ site:
   title: "Escalating Odds"
   author: "radioaddict"
   tagline: "One More Attempt"
-  url: "https://writing.spidersolutions.biz"
+  url: "https://writing.radioaddictmusic.com"
   description: "Aesthetic preference becomes identity. Identity forms purpose. Purpose becomes exploited. Exploitation becomes aesthetic preference."
 ui:
   theme:
@@ -18,11 +18,11 @@ ui:
   labels:
     previous: "Previous"
     next: "Next"
-    noContent: "No pieces found in this collection."
+    noContent: "No records found in this archive."
     errorLoading: "Error loading content."
     page: "Page"
     of: "of"
-    volumes: "Reader"
+    volumes: "Archives"
     dawn: "Light"
     dusk: "Void"
     lightMode: "Switch to light mode"
