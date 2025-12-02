@@ -1,0 +1,24 @@
+[
+  {
+    "name": "poems",
+    "pieces": [
+      "escalating-odds"
+    ],
+    "total": 1
+  },
+  {
+    "name": "fiction",
+    "pieces": [
+      "escalating-odds",
+      "niko-001"
+    ],
+    "total": 2
+  },
+  {
+    "name": "novel",
+    "pieces": [
+      "niko-001"
+    ],
+    "total": 1
+  }
+]
